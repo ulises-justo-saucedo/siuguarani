@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1716572975 source:c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\main.c
+	<stdio.h>
+	<stdlib.h>
+	"materiaAprobada.h"
+	"alumno.h"
+	"materia.h"
+	"siuguarani.h"
+
+1716572701 source:c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"nodo.h"
+	"cola.h"
+	"lista.h"
+	"alumno.h"
+
+1715345161 c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\nodo.h
+
+1716571192 c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\cola.h
+	"nodo.h"
+
+1716571390 source:c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+	"lista.h"
+	"materiaAprobada.h"
+
+1716571241 c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\alumno.h
+	<stdbool.h>
+	"materiaAprobada.h"
+
+1716496376 source:c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\informacionmateria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informacionMateria.h"
+
+1716570417 c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\informacionmateria.h
+
+1715345162 source:c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1716572364 source:c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"lista.h"
+	"nodo.h"
+
+1715374785 c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\lista.h
+	"nodo.h"
+	<stdbool.h>
+
+1716573786 source:c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\materia.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+	"alumno.h"
+
+1716571875 c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\materia.h
+	"informacionMateria.h"
+	"lista.h"
+	"cola.h"
+	"materia.h"
+	"nodo.h"
+	"alumno.h"
+
+1716495155 source:c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\siuguarani.c
+	<stdio.h>
+	<stdlib.h>
+	"siuguarani.h"
+
+1716494827 c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\siuguarani.h
+	"lista.h"
+	"materia.h"
+
+1716320169 c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\materiaaprobada.h
+	"informacionMateria.h"
+
+1716495370 source:c:\users\ulises\desktop\workspace\universidad\2do año\1er cuatrimestre\algoritmos y estructuras de datos\tp final\siuguarani\materiaaprobada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materiaAprobada.h"
+
